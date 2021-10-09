@@ -1,6 +1,8 @@
+This is a Backend API project using MongoDB and Golang for Appointy Summer Internship
+
 Pre-Requisites:
-	MongoDB
-	Go
+- MongoDB
+- Go
 
 To Run:
 1) Open Terminal and navigate to the folder
